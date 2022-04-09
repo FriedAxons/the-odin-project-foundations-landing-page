@@ -9,6 +9,6 @@ One design is an image of the complete website, the outcome. And the other has s
 
 The goal for this project is to get it as close as possible to the design, though not worrying about a pixel-perfect design. The point of this assignment is **to create something from scratch and get the various elements in more or less the right position relative to the rest.**
 
-[Design reference 1](imgReferences/outcome.png)
+[Design reference 1] (imgReferences/outcome.png)
 
-[Design reference 2](imgReferences/colors_and_stuff.png)
+[Design reference 2] (imgReferences/colors_and_stuff.png)
