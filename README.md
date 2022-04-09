@@ -11,4 +11,4 @@ The goal for this project is to get it as close as possible to the design, thoug
 
 [Design reference 1](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
 
-[Design reference 2] (imgReferences/colors_and_stuff.png)
+[Design reference 2](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
