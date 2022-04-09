@@ -57,6 +57,7 @@ footer {
 
 .hero-main-text {
   margin: 0;
+  font-size: 18px;
 }
 
 .top-container-header {
@@ -82,13 +83,15 @@ footer {
 }
 
 .hero-main-section {
-  /* display: flex; */
-  padding: 100px;
+  padding: 80px;
 }
 
-.placeholder-container {
-  display: flex;
-  justify-content: space-between;
+.sign-up-button {
+  color: #fff;
+  background-color: #3882f6;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
 }
 
 .container-middle-section {
