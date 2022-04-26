@@ -1,0 +1,9 @@
+/* .top-section-container {
+
+} */
+
+.top-section-container nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
