@@ -20,11 +20,11 @@ body {
 }
 
 /*Header work starts here*/
-.top-section-container {
+.header-container {
   background-color: #1f2937;
 }
 
-.top-section-container nav {
+.header-container nav {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -41,3 +41,43 @@ body {
   margin: 5px;
 }
 /*Header work ends here*/
+
+/*Top main section work starts here*/
+.hero-main-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  background-color: #1f2937;
+}
+
+.top-container-header {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.hero-main-text {
+  flex: 1 1 50%;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+/*this one also edits the bottom signup button*/
+.sign-up-button {
+  background-color: #3882f6;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 4px 18px;
+}
+
+.placeholder-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 50%;
+}
+
+/*Top main section work ends here*/
