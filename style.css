@@ -45,20 +45,20 @@ body {
 /*Top main section work starts here*/
 .hero-main-section {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-
+  flex-direction: column;
   background-color: #1f2937;
 }
 
 .top-container-header {
+  flex: 1 1 50%;
   color: #f9faf8;
   font-size: 48px;
   font-weight: 900;
+  margin: 0;
 }
 
 .hero-main-text {
-  flex: 1 1 50%;
+  margin: 0;
   font-size: 18px;
   color: #e5e7eb;
 }
@@ -71,13 +71,6 @@ body {
   border: none;
   border-radius: 5px;
   padding: 4px 18px;
-}
-
-.placeholder-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex: 1 1 50%;
 }
 
 /*Top main section work ends here*/
