@@ -14,11 +14,6 @@ body {
   height: 100vh;
 }
 
-.wrapper {
-  display: flex;
-  flex-direction: column;
-}
-
 /*Header work starts here*/
 .header-container {
   background-color: #1f2937;
@@ -43,6 +38,7 @@ body {
 /*Header work ends here*/
 
 /*Top main section work starts here*/
+
 .hero-main-section {
   display: flex;
   flex-direction: column;
@@ -50,7 +46,6 @@ body {
 }
 
 .top-container-header {
-  flex: 1 1 50%;
   color: #f9faf8;
   font-size: 48px;
   font-weight: 900;
@@ -58,12 +53,12 @@ body {
 }
 
 .hero-main-text {
+  flex: 1 1 100%;
   margin: 0;
   font-size: 18px;
   color: #e5e7eb;
 }
 
-/*this one also edits the bottom signup button*/
 .sign-up-button {
   background-color: #3882f6;
   color: #fff;
