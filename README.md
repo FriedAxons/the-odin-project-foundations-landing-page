@@ -1,4 +1,4 @@
-## The Odin Project Foundations Landing Page
+# The Odin Project Foundations Landing Page
 
 This is one of the first main projects given on [theodinproject](www.theodinproject.com).
 
