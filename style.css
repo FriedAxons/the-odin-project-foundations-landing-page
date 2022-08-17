@@ -6,7 +6,34 @@
   box-sizing: border-box;
 }
 
+/* Was not sure if just body was okay so I added both for this */
+html,
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
 .container {
   display: flex;
   flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1f2937;
+  padding: 10px;
+}
+
+.header-logo {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.header-link {
+  font-size: 18px;
+  margin: 5px;
+  color: #e5e7eb;
 }
