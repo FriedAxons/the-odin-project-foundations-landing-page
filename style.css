@@ -18,7 +18,7 @@ body {
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
 }
-
+/* Header with header links section start */
 .header-container {
   display: flex;
   align-items: center;
@@ -38,13 +38,15 @@ body {
   color: #e5e7eb;
   text-decoration: none;
 }
+/* Header with header links section end */
 
+/* Hero main section start*/
 .hero-main-section {
   display: flex;
   align-items: center;
   padding-bottom: 80px;
   padding-left: 80px;
-  padding-right: 80px;
+  padding-right: 70px;
   background-color: #1f2937;
 }
 
@@ -63,6 +65,8 @@ body {
 .hero-main-text {
   color: #e5e7eb;
   font-size: 18px;
+  margin: 0;
+  margin-bottom: 15px;
 }
 
 .sign-up-button {
@@ -85,4 +89,13 @@ body {
   color: #e5e7eb;
   text-align: center;
   text-decoration: none;
+}
+/* Hero main section end */
+
+/* Random information section start */
+.middle-section-header {
+  text-align: center;
+  color: #1f2937;
+  font-weight: bolder;
+  font-size: 36px;
 }
