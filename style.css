@@ -93,9 +93,29 @@ body {
 /* Hero main section end */
 
 /* Random information section start */
+.information-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .middle-section-header {
-  text-align: center;
+  /* text-align: center; */
+  margin-top: 30px;
   color: #1f2937;
   font-weight: bolder;
   font-size: 36px;
+}
+
+.subtext-section {
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+  font-size: 15px;
+  color: #1f2937;
+  /* gap: 25px; */
+}
+
+.middle-section-information-image {
 }
