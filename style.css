@@ -93,15 +93,15 @@ body {
 /* Hero main section end */
 
 /* Random information section start */
-.information-section-container {
+/* .information-section-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
+} */
 
 .middle-section-header {
-  /* text-align: center; */
+  text-align: center;
   margin-top: 30px;
   color: #1f2937;
   font-weight: bolder;
@@ -111,11 +111,27 @@ body {
 .subtext-section {
   display: flex;
   align-items: center;
-  margin: 30px 30px;
+  margin: 30px 70px;
   font-size: 15px;
   color: #1f2937;
   /* gap: 25px; */
 }
 
+.information-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px 20px;
+}
+
 .middle-section-information-image {
+  width: 130px;
+  height: 125px;
+  border: 4px solid #3882f6;
+  border-radius: 10px;
+}
+
+.information-item p {
+  text-align: center;
 }
