@@ -145,3 +145,35 @@ body {
   font-weight: bolder;
   text-align: right;
 }
+/* Quote section ends */
+
+/* Sign up section starts */
+.container-sign-up-section {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3882f6;
+  margin: 100px;
+  padding: 50px 50px;
+  border-radius: 5px;
+}
+
+.call-to-action-container > h1 {
+  color: #f9faf8;
+  margin: 0;
+}
+
+.call-to-action-container > p {
+  color: #e5e7eb;
+  margin: 0;
+}
+
+.bottom-signup-btn {
+  background-color: #3882f6;
+  color: white;
+  font-size: 16px;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
