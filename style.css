@@ -44,6 +44,7 @@ body {
 .hero-main-section {
   display: flex;
   align-items: center;
+  justify-content: center;
   padding-bottom: 80px;
   padding-left: 80px;
   padding-right: 70px;
@@ -80,6 +81,7 @@ body {
 }
 
 .placeholder-container {
+  text-align: center;
   width: 100%;
   background-color: rgba(191, 191, 191, 0.5);
   padding: 95px 80px;
@@ -87,7 +89,6 @@ body {
 
 .placeholder-text {
   color: #e5e7eb;
-  text-align: center;
   text-decoration: none;
 }
 /* Hero main section end */
@@ -180,5 +181,11 @@ body {
 /* Signup section ends */
 
 /* Footer section starts */
-
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 30px;
+  word-spacing: 1px;
+}
 /* Footer section ends */
