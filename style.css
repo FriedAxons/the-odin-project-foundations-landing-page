@@ -133,9 +133,15 @@ body {
 /* Quote section start*/
 .quote-section-container {
   background-color: #e5e7eb;
+  padding: 40px 150px;
 }
 
 .quote-text {
   font: italic 36px 'Roboto', sans-serif;
   color: #1f2937;
+}
+
+.quote-author-text {
+  font-weight: bolder;
+  text-align: right;
 }
